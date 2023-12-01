@@ -7,10 +7,12 @@ A website for keeping track of various clubs and activities/events carried by cl
 # Timeline :
 A] SpringBoot and Database.
 1) Implementing- 1. Student data entry, Admin data entry & log-in (Admin).  2. Student login and Profile filling window (Student)
+   [Phase 1 implementation Screenshots .docx](https://github.com/GhostSanket14/college-activity-tracker/files/13527752/Phase.1.docx)
+
 2) 
 
 B] React
-
+1) 
 
 # SRS $ other links :
 [College-Activity-Tracker.docx](https://github.com/GhostSanket14/college-activity-tracker/files/13434961/College-Activity-Tracker.docx)
