@@ -14,5 +14,5 @@ A] SpringBoot and Database.
 B] React
 1) 
 
-# SRS $ other links :
+# SRS and other links :
 [College-Activity-Tracker.docx](https://github.com/GhostSanket14/college-activity-tracker/files/13434961/College-Activity-Tracker.docx)
